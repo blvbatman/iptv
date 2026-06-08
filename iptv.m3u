@@ -847,59 +847,62 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CCTV1" group-title="CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/CCTV-1_Logo.svg" , CCTV 1
-http://hbhyjq.ufyct.com:1088/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv1.png" , CCTV 1
+http://198.204.228.26/live/cctv1hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV2" group-title="CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png" , CCTV 2
-http://hbhyjq.ufyct.com:1088/hls/2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv2.png" , CCTV 2
+http://198.204.228.26/live/cctv2hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV3" group-title="CCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CCTV-3_%E7%BB%BC%E8%89%BA.svg/revision/latest?cb=20230514004707" , CCTV 3
-http://hbhyjq.ufyct.com:1088/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv3.png" , CCTV 3
+http://198.204.228.26/live/cctv3hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4" group-title="CCTV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8109726-9708-48ac-b7ae-68e564aa6843/df1twn3-7bb7e8f1-1095-4101-b44f-68db1674547d.png" , CCTV 4
+#EXTINF:-1 tvg-id="CCTV4" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv4.png" , CCTV 4
 http://hbhyjq.ufyct.com:1088/hls/4/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5" group-title="CCTV" tvg-logo="https://e7.pngegg.com/pngimages/582/428/png-clipart-china-central-television-cctv-headquarters-cctv-5-broadcasting-others-miscellaneous-television-thumbnail.png" , CCTV 5
-http://hbhyjq.ufyct.com:1088/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv5.png" , CCTV 5
+http://198.204.228.26/live/cctv5hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5PLUS" group-title="CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/88/CCTV5%2B.png/revision/latest?cb=20250201094721&path-prefix=vi" , CCTV 5+
+#EXTINF:-1 tvg-id="CCTV5PLUS" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv5plus.png" , CCTV 5+
 http://hbhyjq.ufyct.com:1088/hls/19/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV6" group-title="CCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CCTV-6_%E7%94%B5%E5%BD%B1.svg/revision/latest?cb=20231231080619" , CCTV 6
-http://hbhyjq.ufyct.com:1088/hls/6/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv6.png" , CCTV 6
+http://198.204.228.26/live/cctv6hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV7" group-title="CCTV" tvg-logo="https://i.namu.wiki/i/NMtKsGQVRCXfy6TIJ4_hCWZjI4qFBts0qKG9UVrgrcTAnamhjabcQ8q-n7WkiC3Pyqs_pa-KKRMa77v_gR00CA.svg" , CCTV 7
-http://hbhyjq.ufyct.com:1088/hls/7/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv7.png" , CCTV 7
+http://198.204.228.26/live/cctv7hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV8" group-title="CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/CCTV8.png/revision/latest/scale-to-width-down/180?cb=20240112013944&path-prefix=vi" , CCTV 8
-http://hbhyjq.ufyct.com:1088/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv8.png" , CCTV 8
+http://198.204.228.26/live/cctv8hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV9" group-title="CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/27/CCTV9_2001-2010.png/revision/latest?cb=20240112013728&path-prefix=vi" , CCTV 9
-http://hbhyjq.ufyct.com:1088/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv9.png" , CCTV 9
+http://198.204.228.26/live/cctv9hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV10" group-title="CCTV" tvg-logo="https://i.namu.wiki/i/kaLRxTRQ0BTvU22bmmKWGKTeS6f25vaZYY6hhWuzfFvi3RApnmXqV2SlPvyecmey9oR1K0WqBS35V6NwZ23Y5g.svg" , CCTV 10
-http://hbhyjq.ufyct.com:1088/hls/10/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv10.png" , CCTV 10
+http://198.204.228.26/live/cctv10hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV11" group-title="CCTV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/deruj5l-a3960cf8-5aa2-450f-b5ae-3b53ef6cd913.png" , CCTV 11
-http://hbhyjq.ufyct.com:1088/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv11.png" , CCTV 11
+http://198.204.228.26/live/cctv11hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV12" group-title="CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7b/CCTV12.png/revision/latest/scale-to-width-down/1280?cb=20250201094407&path-prefix=vi" , CCTV 12
-http://hbhyjq.ufyct.com:1088/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv12.png" , CCTV 12
+http://198.204.228.26/live/cctv12hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13" group-title="CCTV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8109726-9708-48ac-b7ae-68e564aa6843/df1t984-336fe5af-b456-4027-821a-debb85a10f53.png" , CCTV 13
-http://hbhyjq.ufyct.com:1088/hls/13/index.m3u8 
+#EXTINF:-1 tvg-id="CCTV13" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv13.png" , CCTV 13
+http://198.204.228.26/live/cctv13hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV14" group-title="CCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f5/CCTV14.png/revision/latest/scale-to-width-down/680?cb=20240112013953&path-prefix=vi" , CCTV 14
-http://hbhyjq.ufyct.com:1088/hls/14/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv14.png" , CCTV 14
+http://198.204.228.26/live/cctv14hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV15" group-title="CCTV" tvg-logo="data:image/png;base64,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" , CCTV 15
-http://hbhyjq.ufyct.com:1088/hls/15/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv15.png" , CCTV 15
+http://198.204.228.26/live/cctv15hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV16" group-title="CCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CCTV-16_%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B.svg/revision/latest?cb=20240112153611" , CCTV 16(Lỗi)
-https://bit.ly/loilistm3u
+#EXTINF:-1 tvg-id="CCTV16" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv16.png" , CCTV 16
+http://198.204.228.26/live/cctv16hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV17" group-title="CCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CCTV-17_%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.svg/revision/latest?cb=202401111606541" , CCTV 17
-http://hbhyjq.ufyct.com:1088/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv17.png" , CCTV 17
+http://198.204.228.26/live/cctv17hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4K" group-title="CCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/CCTV-4k.png/revision/latest?cb=20220312213639" , CCTV 4K
+#EXTINF:-1 tvg-id="CCTV4K" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv4k.png" , CCTV 4K
 http://198.204.240.250:82/live/cctv4k.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8K" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv8k.png" , CCTV 8K
+http://198.204.240.250:82/live/cctv8k.m3u8
