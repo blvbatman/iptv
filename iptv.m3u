@@ -675,8 +675,8 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9957
 #EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9958
-#EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png", TV360+12 (Đang die nhé các con vợ)
-https://player.odycdn.com/v6/streams/bb15191855f43bd98b76facf2df028f6ded86ce3/830ebf.mp4
+#EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png", TV360+12
+https://blvbatman.github.io/banquyen.mp4
 #EXTINF:-1 tvg-id="tv360plus13" 
 #EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png", TV360 Promo
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9904
