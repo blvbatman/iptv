@@ -45,11 +45,11 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="qpvn-hd" group-title="Quốc Phòng" tvg-logo="https://freem3u.xyz/static/images/thietyeu/qpvn.png", QPVN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://qpvn.vn/live/qpvn/1080p.m3u8
 
 #EXTINF:-1 tvg-id="thvl1hd" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong1.png", THVL1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 tvg-id="thvl2hd" group-title="Địa Phương" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong2.png", THVL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
