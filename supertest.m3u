@@ -1,8 +1,9 @@
-#EXTINF:-1 tvg-id="dsports" group-title="WorldCup" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/dsports.png", D Sports
+##EXTINF:-1 tvg-id="dsports" group-title="WorldCup" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/dsports.png", D Sports
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|Referer=https://durbinlive.org/&Origin=https://durbinlive.org
 #EXTINF:-1 tvg-id="tsnsports4" group-title="WorldCup" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/tsn.png", TSN Sports 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
