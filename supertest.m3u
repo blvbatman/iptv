@@ -1,9 +1,8 @@
 #EXTINF:-1 tvg-id="dsports" group-title="WorldCup" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/dsports.png", D Sports
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc5c30fc9f7e43e58887a2d8a7788a38:55bd66990fb745fd895f1aa71393e81f
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 #EXTINF:-1 tvg-id="tsnsports4" group-title="WorldCup" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/tsn.png", TSN Sports 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
