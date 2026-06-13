@@ -349,218 +349,218 @@ https://blvbatman.dpdns.org/kenh/youtv.m3u8
 
 #EXTINF:-1 tvg-id="tvb-vietnam" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/tvb/tvbv.png", TVB Việt Nam
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8?_xtfc=6864eb7721a75224098f21dba116e648&_xt=1772525259
+https://blvbatman.dpdns.org/kenh/tvb.m3u8
 
 #EXTINF:-1 tvg-id="warnertv" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/warnertv.png", Warner TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/warner.m3u8
 
 #EXTINF:-1 tvg-id="hbo" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png", HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/hbo.m3u8
 
 #EXTINF:-1 tvg-id="cinemaworld" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cinemaworld.png", CinemaWorld
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/cinemaworld.m3u8
 
 #EXTINF:-1 tvg-id="axn" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/axn.png", AXN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/axn.m3u8
 
 #EXTINF:-1 tvg-id="cinemax" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png", Cinemax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acb4c23471063327adc732e283c0847f:e9868f5f473d0fd8699ede48d531c2b0
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/cinemax.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cartoon-network.png", Cartoon Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cartoonito.png", Cartoonito
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/cartoonito.m3u8
 
 #EXTINF:-1 tvg-id="bbc-cbeebies" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bbc-cbeebies.png", BBC Cbeebies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cca73a006b4b39a595207ceb5ed9ca0a:b833d1f40c261ef78896f97e06f80cdc
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/bbc-cbeebies.m3u8
 
 #EXTINF:-1 tvg-id="dmax" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/dmax.png", Dmax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/dmax.m3u8
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/dreamworks.png", Dreamworks
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67dae20527c63dadaaae609aa91577cb:59328f621d56767bc5ff9404a8940683
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/dreamworks.m3u8
 
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/davinci.png", Davinci
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
+https://blvbatman.dpdns.org/kenh/davinci.m3u8
 
 #EXTINF:-1 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/kix.png", Kix
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+https://blvbatman.dpdns.org/kenh/kix.m3u8
 
 #EXTINF:-1 tvg-id="animal-planet" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/animal-planet.png", Animal-planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/animal-planet.m3u8
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/outdoor.png", Outdoor HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/mean/OUTDOORCHANNEL/manifest.mpd
+https://blvbatman.dpdns.org/kenh/outdoorhd.m3u8
 
 #EXTINF:-1 tvg-id="channelnewsasia" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cna.png", Channel News Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=112
+https://blvbatman.dpdns.org/kenh/channelnewsasia.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/tv5monde.png", TV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://liveh12.vtvprime.vn/hls/TV5/index.m3u8
+https://blvbatman.dpdns.org/kenh/tv5monde.m3u8
 
 #EXTINF:-1 tvg-id="discovery" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/discovery-channel.png", Discovery
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/discovery.m3u8
 
 #EXTINF:-1 tvg-id="tlc" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/tlc.png", Travel Living Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
-https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/tlc.m3u8
 
 #EXTINF:-1 tvg-id="discoveryasia" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/discovery-asia.png", Discovery Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/discoveryasia.m3u8
 
 #EXTINF:-1 tvg-id="fashiontv" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/fashiontv.png",  Fashion TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/fashiontv.m3u8
 
 #EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/afnhd.png", Asia Food Network HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=215
+https://blvbatman.dpdns.org/kenh/afnhd.m3u8
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/hgtv.png", HGTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://liveh34.vtvprime.vn/hls/HGTV/index.m3u8
+https://blvbatman.dpdns.org/kenh/hgtv.m3u8
 
 
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/kbsworld.png", KBS World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+https://blvbatman.dpdns.org/kenh/kbsworld.m3u8
 
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/nhkworldjp.png", NHK World Japan
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+https://blvbatman.dpdns.org/kenh/nhkworld.m3u8
 
 #EXTINF:-1 tvg-id="nhk_premium" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/nhk_world_premium.png", NHK Premium
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn3.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+https://blvbatman.dpdns.org/kenh/nhk_premium.m3u8
 
 #EXTINF:-1 tvg-id="france24" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/france24_fr.png", France 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+https://blvbatman.dpdns.org/kenh/france24.m3u8
 
 #EXTINF:-1 tvg-id="cnbcsd" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cnbc.png", CNBC SD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+https://blvbatman.dpdns.org/kenh/france24.m3u8
 
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/history.png", History HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
+https://blvbatman.dpdns.org/kenh/historyhd.m3u8
 
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/dw.png", DW - Deutsche Welle
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+https://blvbatman.dpdns.org/kenh/dw.m3u8
 
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png", CNN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/cnn.m3u8
 
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/arirang.png", Arirang
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+https://blvbatman.dpdns.org/kenh/arirang.m3u8
 
 #EXTINF:-1 tvg-id="bloomberg" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bloomberg.png", Bloomberg
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/bloomberg.m3u8
 
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bbc-lifestyle.png", BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
-https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/bbclifestyle.m3u8
 
 #EXTINF:-1 tvg-id="bbcnews" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bbc-news.png", BBC World News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/bbcnews.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/bbc-earth.png", BBC Earth
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/bbcearth.m3u8
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://freem3u.xyz/static/images/global/abc-australia.png", ABC Australia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
-https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
+https://blvbatman.dpdns.org/kenh/abcaustralia.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
