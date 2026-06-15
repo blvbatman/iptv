@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cctv1" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv1.png" , CCTV 1
+http://198.204.228.26/live/cctv1hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv2" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv2.png" , CCTV 2
+http://198.204.228.26/live/cctv2hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv3" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv3.png" , CCTV 3
+http://198.204.228.26/live/cctv3hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv4" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv4.png" , CCTV 4
+http://hbhyjq.ufyct.com:1088/hls/4/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv5" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv5.png" , CCTV 5
+http://198.204.228.26/live/cctv5hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv5plus" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv5plus.png" , CCTV 5+
+https://cdn16.163189.xyz/163189/cctv5p
+
+#EXTINF:-1 tvg-id="cctv6" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv6.png" , CCTV 6
+http://198.204.228.26/live/cctv6hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv7" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv7.png" , CCTV 7
+http://198.204.228.26/live/cctv7hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv8" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv8.png" , CCTV 8
+http://198.204.228.26/live/cctv8hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv9" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv9.png" , CCTV 9
+http://198.204.228.26/live/cctv9hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv10" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv10.png" , CCTV 10
+http://198.204.228.26/live/cctv10hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv11" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv11.png" , CCTV 11
+http://198.204.228.26/live/cctv11hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv12" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv12.png" , CCTV 12
+http://198.204.228.26/live/cctv12hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv13" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv13.png" , CCTV 13
+http://198.204.228.26/live/cctv13hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv14" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv14.png" , CCTV 14
+http://198.204.228.26/live/cctv14hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv15" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv15.png" , CCTV 15
+http://198.204.228.26/live/cctv15hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv16" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv16.png" , CCTV 16
+http://198.204.228.26/live/cctv16hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv17" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv17.png" , CCTV 17
+http://198.204.228.26/live/cctv17hd.m3u8
+
+#EXTINF:-1 tvg-id="cctv4k" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv4k.png" , CCTV 4K
+http://198.204.240.250:82/live/cctv4k.m3u8
+
+#EXTINF:-1 tvg-id="cctv8k" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv8k.png" , CCTV 8K
+http://198.204.240.250:82/live/cctv8k.m3u8
+
+#EXTINF:-1 tvg-id="iqiyi" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/iqiyi.png" , IQIYI
+https://o11.163189.xyz/stream/live/iqiyi/
