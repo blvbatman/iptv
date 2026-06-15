@@ -742,7 +742,7 @@ http://hbhyjq.ufyct.com:1088/hls/4/index.m3u8
 http://198.204.228.26/live/cctv5hd.m3u8
 
 #EXTINF:-1 tvg-id="CCTV5PLUS" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv5plus.png" , CCTV 5+
-http://hbhyjq.ufyct.com:1088/hls/19/index.m3u8
+https://cdn16.163189.xyz/163189/cctv5p
 
 #EXTINF:-1 tvg-id="CCTV6" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv6.png" , CCTV 6
 http://198.204.228.26/live/cctv6hd.m3u8
@@ -785,3 +785,6 @@ http://198.204.240.250:82/live/cctv4k.m3u8
 
 #EXTINF:-1 tvg-id="CCTV8K" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/cctv8k.png" , CCTV 8K
 http://198.204.240.250:82/live/cctv8k.m3u8
+
+#EXTINF:-1 tvg-id="IQIYI" group-title="CCTV" tvg-logo="https://raw.githubusercontent.com/blvbatman/iptv/refs/heads/main/iqiyi.png" , IQIYI
+https://o11.163189.xyz/stream/live/iqiyi/
