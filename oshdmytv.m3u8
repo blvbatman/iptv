@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1704471244
+#EXT-X-KEY:METHOD=AES-128,URI="https://ctl23.mytvnet.vn/CAB/keyfile?r=vstv264&t=VOD&pkg=pkg32.hni&rkey=38560982oyXFqv7d.drm&userId=38560982&ns=123.29.71.22&p=170447",IV=0x00000000000000000000000000000000
+#EXTINF:2,
+/tvcache/drm/vstv264/hd/04/47/12/hd-1704471244.ts?c=vstv264&q=hd&type=tvlive-seg&pkg=pkg32.hni&zn=netb2c&userId=38560982&deviceId=46639641&location=NDH&p=0&pnode=172.16.237.100&rkey=38560982oyXFqv7d.drm
+#EXTINF:2,
+/tvcache/drm/vstv264/hd/04/47/12/hd-1704471245.ts?c=vstv264&q=hd&type=tvlive-seg&pkg=pkg32.hni&zn=netb2c&userId=38560982&deviceId=46639641&location=NDH&p=0&pnode=172.16.237.100&rkey=38560982oyXFqv7d.drm
+#EXTINF:2,
+/tvcache/drm/vstv264/hd/04/47/12/hd-1704471246.ts?c=vstv264&q=hd&type=tvlive-seg&pkg=pkg32.hni&zn=netb2c&userId=38560982&deviceId=46639641&location=NDH&p=0&pnode=172.16.237.100&rkey=38560982oyXFqv7d.drm
+#EXTINF:2,
+/tvcache/drm/vstv264/hd/04/47/12/hd-1704471247.ts?c=vstv264&q=hd&type=tvlive-seg&pkg=pkg32.hni&zn=netb2c&userId=38560982&deviceId=46639641&location=NDH&p=0&pnode=172.16.237.100&rkey=38560982oyXFqv7d.drm
+#EXTINF:2,
+/tvcache/drm/vstv264/hd/04/47/12/hd-1704471248.ts?c=vstv264&q=hd&type=tvlive-seg&pkg=pkg32.hni&zn=netb2c&userId=38560982&deviceId=46639641&location=NDH&p=0&pnode=172.16.237.100&rkey=38560982oyXFqv7d.drm
